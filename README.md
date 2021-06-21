@@ -17,8 +17,24 @@ In order to eliminate these problems, we have designed a centralised database fo
 
 ### Project Structure
 
-1. scripts folder contains -
+1. Scripts folder contains -
 	1. HealthCare(DDL) - Script to create database and tables for the associated entities
 	2. HealthCare(Programmability) - Script contains Stored Procedures, Views, Triggers, Encryption for SSN, Non-clustered Index of the database
 	3. HealthCare(DML) - Script adds mock data into the database
-2. visualization folder contains Dashboards designed using Power BI
+2. Visualization folder contains Dashboards designed using Power BI
+
+---
+
+### Visualization
+
+1. Count of patients for each Doctor
+	<img alt="viz1" src="https://github.com/v-abhishek/healthcare-management-system/blob/main/images/viz1.png" />
+2. Count of patients associated with each Insurance company
+	<img alt="viz2" src="https://github.com/v-abhishek/healthcare-management-system/blob/main/images/viz2.png" />
+3. Diagnosis
+	<img alt="viz3" src="https://github.com/v-abhishek/healthcare-management-system/blob/main/images/viz3.png" />
+4. Medicine Usage
+	<img alt="viz4" src="https://github.com/v-abhishek/healthcare-management-system/blob/main/images/viz4.png" />
+5. Financial Transactions
+	<img alt="viz5" src="https://github.com/v-abhishek/healthcare-management-system/blob/main/images/viz5.png" />
+	
