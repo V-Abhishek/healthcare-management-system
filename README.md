@@ -17,6 +17,8 @@ In order to eliminate these problems, we have designed a centralised database fo
 
 ### Project Structure
 
-1. Scripts folder contains -
-	a. HealthCare(DDL) - Script to create database and tables for the associated entities
-	b. HealthCare(DML) - 
+1. scripts folder contains -
+	1. HealthCare(DDL) - Script to create database and tables for the associated entities
+	2. HealthCare(Programmability) - Script contains Stored Procedures, Views, Triggers, Encryption for SSN, Non-clustered Index of the database
+	3. HealthCare(DML) - Script adds mock data into the database
+2. visualization folder contains Dashboards designed using Power BI
