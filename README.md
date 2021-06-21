@@ -14,3 +14,9 @@ In order to eliminate these problems, we have designed a centralised database fo
 <img alt="EER" src="https://github.com/v-abhishek/healthcare-management-system/blob/main/images/EER.png" />
 
 ---
+
+### Project Structure
+
+1. Scripts folder contains -
+	a. HealthCare(DDL) - Script to create database and tables for the associated entities
+	b. HealthCare(DML) - 
