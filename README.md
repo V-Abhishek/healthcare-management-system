@@ -1,5 +1,5 @@
 # Healthcare Management System
-<img alt="insecure" src="https://github.com/v-abhishek/healthcare-management-system/blob/master/images/project-theme.png" />
+<img alt="project" src="https://github.com/v-abhishek/healthcare-management-system/blob/main/images/project-theme.png" />
 
 ### PROJECT DESCRIPTION
 
@@ -11,6 +11,6 @@ In order to eliminate these problems, we have designed a centralised database fo
 
 ### Enhanced Entity-Relationship Diagram (EERD)
 
-<img alt="EER" src="https://github.com/v-abhishek/healthcare-management-system/blob/master/images/EER.png" />
+<img alt="EER" src="https://github.com/v-abhishek/healthcare-management-system/blob/main/images/EER.png" />
 
 ---
